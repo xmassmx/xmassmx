@@ -1,6 +1,6 @@
 Hi, I’m Muhammad Abdullah Shafat Mulkana. 
 I’m interested in Machine Learning/Deep Learning and Data Science.
-I’m currently learning YOLOv5 and GANs.
+I’m currently learning YOLO and GANs.
 You can reach me at muhammad.shafat@yahoo.com
 
 <!---

@@ -14,9 +14,41 @@ Leading AI engineering at **Wubble AI** - real-time multimodal audio generation 
 
 ## What I build
 
-**Agentic & LLM systems**
-**Multimodal & real-time AI**
-**Applied ML & vision**
+<details>
+<summary><b>Agentic & LLM systems</b></summary>
+
+- LangGraph multi-agent systems (HITL, routing, tool-calling)
+- RAG and LLM deployment across major model providers
+- MCP dev tooling ([langmcp](https://github.com/xmassmx/langmcp))
+
+</details>
+
+<details>
+<summary><b>Multimodal & real-time AI</b></summary>
+
+- Real-time audio generation (music, vocals, SFX)
+- Voice AI (streaming STT -> LLM -> TTS)
+- Transformer serving on Kubernetes
+
+</details>
+
+<details>
+<summary><b>Production infrastructure</b></summary>
+
+- Multi-cloud GPU stacks (AWS/GCP) with routing and autoscaling
+- Event-driven microservices (FastAPI, Pub/Sub, Redis, PostgreSQL)
+- MLOps: CI/CD, IaC, versioning, monitoring
+
+</details>
+
+<details>
+<summary><b>Applied ML & vision</b></summary>
+
+- Computer vision and real-time detection (e.g. YOLOv8)
+- OCR and document pipelines
+- NLP/CV research (captioning, generative models)
+
+</details>
 ---
 
 ## Tech stack

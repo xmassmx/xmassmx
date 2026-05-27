@@ -1,16 +1,14 @@
+# Hi, I'm Muhammad Abdullah Shafat Mulkana
 
+**Head of AI & Founding Engineer** | Multi-agent systems | LLM infrastructure | Production GenAI
 
-# Hi, I'm Muhammad Abdullah Mulkana
+Leading AI engineering at **Wubble AI** - real-time multimodal audio generation (music, vocals, SFX) and agentic workflows at scale.
 
-**Head of AI & Founding Engineer** Â· Multi-agent systems Â· LLM infrastructure Â· Production GenAI
-
-Leading AI engineering at **Wubble AI** â€” real-time multimodal audio generation (music, vocals, SFX) and agentic workflows at scale.
-
-[LinkedIn](https://linkedin.com/in/m-abdullah-mulkana)
-[Medium](https://medium.com/@muhammad.shafat)
-[Substack](https://muhammadasmulkana.substack.com)
-
-
+<p align="left">
+  <a href="https://linkedin.com/in/m-abdullah-mulkana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@muhammad.shafat"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://muhammadasmulkana.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack" /></a>
+</p>
 
 ---
 
@@ -18,28 +16,28 @@ Leading AI engineering at **Wubble AI** â€” real-time multimodal audio gene
 
 **Agentic & LLM systems**
 
-- Multi-agent orchestration with **LangGraph** â€” HITL workflows, routing, plan execution, tool-calling
+- Multi-agent orchestration with **LangGraph** - HITL workflows, routing, plan execution, tool-calling
 - Reusable supervisor frameworks with JSON-driven agent, tool, RAG, and prompt configuration
 - **RAG** pipelines, semantic search, and LLM deployment (GPT-4, Claude, Gemini, Llama, Mistral)
-- Developer tooling for AI apps â€” including **[langmcp](https://github.com/xmassmx/langmcp)** (read-only MCP for LangGraph checkpoint & memory inspection)
+- Developer tooling for AI apps - including **[langmcp](https://github.com/xmassmx/langmcp)** (read-only MCP for LangGraph checkpoint and memory inspection)
 
 **Multimodal & real-time AI**
 
 - End-to-end **audio generation** platforms (music, vocals, SFX) from text / audio / image / video inputs
-- **Voice AI** agents with streaming STT â†’ LLM â†’ TTS architectures and sub-500ms latency targets
+- **Voice AI** agents with streaming STT -> LLM -> TTS architectures and sub-500ms latency targets
 - Fine-tuned transformer serving on **Kubernetes** with streaming inference, batching, and GPU optimization
 
 **Production infrastructure**
 
 - Multi-cloud **GPU** stacks (AWS EC2 A100/H100/L4, GCP) with model routing, autoscaling, and cost optimization
-- Event-driven **microservices** â€” FastAPI, Pub/Sub, Redis Streams, PostgreSQL state, circuit breakers
-- **MLOps** â€” CI/CD (GitHub Actions, GitLab CI), IaC, model versioning, monitoring, and incident workflows
+- Event-driven **microservices** - FastAPI, Pub/Sub, Redis Streams, PostgreSQL state, circuit breakers
+- **MLOps** - CI/CD (GitHub Actions, GitLab CI), IaC, model versioning, monitoring, and incident workflows
 
 **Applied ML & vision**
 
 - Real-time **computer vision** (proctoring, pose estimation, object detection with YOLOv8)
 - Custom **OCR** pipelines and document digitization
-- Deep learning for **NLP/CV** research (encoderâ€“decoder, CycleGAN, diffusion, segmentation)
+- Deep learning for **NLP/CV** research (encoder-decoder, CycleGAN, diffusion, segmentation)
 
 ---
 
@@ -47,82 +45,113 @@ Leading AI engineering at **Wubble AI** â€” real-time multimodal audio gene
 
 ### Medium
 
+| Article | Topic |
+| -------- | ----- |
+| [Stop Engineering Prompts, Start Engineering Context](https://medium.com/@muhammad.shafat/stop-engineering-prompts-start-engineering-context-a-guide-to-the-agent-skills-standard-bc8e2056f40a) | Agent Skills standard and context engineering |
+| [The Great AI Re-Centralization](https://medium.com/@muhammad.shafat/the-great-ai-re-centralization-why-agent-swarms-are-giving-way-to-the-cognitive-core-a61db3c701bf) | Agent swarms vs. cognitive-core architectures |
 
-| Article                                                                                                                                                                                         | Topic                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [Stop Engineering Prompts, Start Engineering Context](https://medium.com/@muhammad.shafat/stop-engineering-prompts-start-engineering-context-a-guide-to-the-agent-skills-standard-bc8e2056f40a) | Agent Skills standard & context engineering   |
-| [The Great AI Re-Centralization](https://medium.com/@muhammad.shafat/the-great-ai-re-centralization-why-agent-swarms-are-giving-way-to-the-cognitive-core-a61db3c701bf)                         | Agent swarms vs. cognitive-core architectures |
-
-
-â†’ [All articles on Medium](https://medium.com/@muhammad.shafat)
+[All articles on Medium](https://medium.com/@muhammad.shafat)
 
 ### Substack
 
 Technical essays on AI systems, agents, and the evolving LLM landscape.
 
-â†’ **[muhammadasmulkana.substack.com](https://muhammadasmulkana.substack.com)**
+[muhammadasmulkana.substack.com](https://muhammadasmulkana.substack.com)
 
 ---
 
 ## Tech stack
 
-**Languages & backends**
+### Languages and backends
 
-`Python` Â· `FastAPI` Â· `Flask` Â· `TypeScript` Â· `SQL` Â· `MATLAB`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
+</p>
 
+### ML / AI
 
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=flat-square&logo=openai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
+</p>
 
-**ML / AI**
+LoRA fine-tuning | instruction tuning | RAG | prompt engineering | model optimization
 
-`PyTorch` Â· `TensorFlow` Â· `Keras` Â· `LangChain` Â· `LangGraph` Â· `Transformers` Â· `CrewAI` Â· `ONNX`
+### Agents and LLM ops
 
-LoRA fine-tuning Â· instruction tuning Â· RAG Â· prompt engineering Â· model optimization
+<p align="left">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=protocol&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Weaviate-FA4D56?style=flat-square&logo=weaviate&logoColor=white" alt="Weaviate" />
+  <img src="https://img.shields.io/badge/Chroma-000000?style=flat-square&logo=chromadb&logoColor=white" alt="Chroma" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" alt="FAISS" />
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+</p>
 
+Multi-agent orchestration | HITL workflows | tool-calling | agentic AI | semantic search
 
+### Cloud and infrastructure
 
-**Agents & LLM ops**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+</p>
 
-Multi-agent orchestration Â· HITL workflows Â· tool-calling Â· agentic AI Â· MCP
+**AWS:** EC2 | Lambda | S3 | SageMaker  
+**GCP:** Cloud Run | Cloud Functions | Pub/Sub | GKE | Vertex AI | Cloud Storage
 
-`Weaviate` Â· `Chroma` Â· `FAISS` Â· `pgvector` Â· embedding models Â· semantic search
+### MLOps and delivery
 
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square&logo=git&logoColor=white" alt="GitOps" />
+</p>
 
+Infrastructure-as-code | model versioning
 
-**Cloud & infrastructure**
+### Domains
 
-**AWS** â€” EC2, Lambda, S3, SageMaker  
-**GCP** â€” Cloud Run, Cloud Functions, Pub/Sub, GKE, Vertex AI, Cloud Storage  
-
-`Kubernetes` Â· `Docker` Â· `Redis` Â· `PostgreSQL` Â· `Elasticsearch` Â· `Firebase` Â· `Databricks`
-
-
-
-**MLOps & delivery**
-
-GitHub Actions Â· GitLab CI Â· infrastructure-as-code Â· model versioning Â· GitOps Â· Docker Compose
-
-
-
-**Domains**
-
-Generative AI Â· LLMs Â· computer vision Â· NLP Â· diffusion models Â· semantic segmentation Â· real-time object detection
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=google&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/Diffusion%20Models-FF4081?style=flat-square&logo=pytorch&logoColor=white" alt="Diffusion" />
+  <img src="https://img.shields.io/badge/Object%20Detection-00C853?style=flat-square&logo=yolo&logoColor=white" alt="Object Detection" />
+</p>
 
 ---
 
 ## Background
 
-B.Sc. **Electrical & Electronics Engineering**, Bilkent University (Honors, Cum Laude).
+B.Sc. **Electrical and Electronics Engineering**, Bilkent University (Honors, Cum Laude).
 
-Previously: **LAYMARK** (multi-agent & Voice AI) Â· **Simply Complex Lab** @ National Nanotechnology Research Center (deep learning for microscopy) Â· applied ML across CV, OCR, and generative modeling.
+Previously: **LAYMARK** (multi-agent and Voice AI) | **Simply Complex Lab** @ National Nanotechnology Research Center (deep learning for microscopy) | applied ML across CV, OCR, and generative modeling.
 
 ---
 
 ## Connect
 
-- **LinkedIn** â€” [linkedin.com/in/m-abdullah-mulkana](https://linkedin.com/in/m-abdullah-mulkana)
-- **Medium** â€” [medium.com/@muhammad.shafat](https://medium.com/@muhammad.shafat)
-- **Substack** â€” [muhammadasmulkana.substack.com](https://muhammadasmulkana.substack.com)
-- **GitHub** â€” you're already here
-
+- **LinkedIn** - [linkedin.com/in/m-abdullah-mulkana](https://linkedin.com/in/m-abdullah-mulkana)
+- **Medium** - [medium.com/@muhammad.shafat](https://medium.com/@muhammad.shafat)
+- **Substack** - [muhammadasmulkana.substack.com](https://muhammadasmulkana.substack.com)
+- **GitHub** - you're already here

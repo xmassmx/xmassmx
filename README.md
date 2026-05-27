@@ -15,49 +15,8 @@ Leading AI engineering at **Wubble AI** - real-time multimodal audio generation 
 ## What I build
 
 **Agentic & LLM systems**
-
-- Multi-agent orchestration with **LangGraph** - HITL workflows, routing, plan execution, tool-calling
-- Reusable supervisor frameworks with JSON-driven agent, tool, RAG, and prompt configuration
-- **RAG** pipelines, semantic search, and LLM deployment (GPT-4, Claude, Gemini, Llama, Mistral)
-- Developer tooling for AI apps - including **[langmcp](https://github.com/xmassmx/langmcp)** (read-only MCP for LangGraph checkpoint and memory inspection)
-
 **Multimodal & real-time AI**
-
-- End-to-end **audio generation** platforms (music, vocals, SFX) from text / audio / image / video inputs
-- **Voice AI** agents with streaming STT -> LLM -> TTS architectures and sub-500ms latency targets
-- Fine-tuned transformer serving on **Kubernetes** with streaming inference, batching, and GPU optimization
-
-**Production infrastructure**
-
-- Multi-cloud **GPU** stacks (AWS EC2 A100/H100/L4, GCP) with model routing, autoscaling, and cost optimization
-- Event-driven **microservices** - FastAPI, Pub/Sub, Redis Streams, PostgreSQL state, circuit breakers
-- **MLOps** - CI/CD (GitHub Actions, GitLab CI), IaC, model versioning, monitoring, and incident workflows
-
 **Applied ML & vision**
-
-- Real-time **computer vision** (proctoring, pose estimation, object detection with YOLOv8)
-- Custom **OCR** pipelines and document digitization
-- Deep learning for **NLP/CV** research (encoder-decoder, CycleGAN, diffusion, segmentation)
-
----
-
-## Writing
-
-### Medium
-
-| Article | Topic |
-| -------- | ----- |
-| [Stop Engineering Prompts, Start Engineering Context](https://medium.com/@muhammad.shafat/stop-engineering-prompts-start-engineering-context-a-guide-to-the-agent-skills-standard-bc8e2056f40a) | Agent Skills standard and context engineering |
-| [The Great AI Re-Centralization](https://medium.com/@muhammad.shafat/the-great-ai-re-centralization-why-agent-swarms-are-giving-way-to-the-cognitive-core-a61db3c701bf) | Agent swarms vs. cognitive-core architectures |
-
-[All articles on Medium](https://medium.com/@muhammad.shafat)
-
-### Substack
-
-Technical essays on AI systems, agents, and the evolving LLM landscape.
-
-[muhammadasmulkana.substack.com](https://muhammadasmulkana.substack.com)
-
 ---
 
 ## Tech stack
